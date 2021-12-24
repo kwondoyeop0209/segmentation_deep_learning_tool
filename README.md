@@ -29,7 +29,7 @@
 
 
 ### 와이어프레임
-![image](/uploads/9ff6eb77dbd8b9c033be747217a7222a/image.png)
+![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/9ff6eb77dbd8b9c033be747217a7222a/image.png)
 
 ![image](/uploads/8b0aebff5deda29a780b96b284f7c6dc/image.png)
 
