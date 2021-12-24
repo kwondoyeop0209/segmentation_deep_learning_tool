@@ -31,7 +31,7 @@
 ### 와이어프레임
 ![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/9ff6eb77dbd8b9c033be747217a7222a/image.png)
 
-![image](/uploads/8b0aebff5deda29a780b96b284f7c6dc/image.png)
+![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/8b0aebff5deda29a780b96b284f7c6dc/image.png)
 
 
 
@@ -52,7 +52,7 @@ AI
 
 
 ## 📊 서비스 구조도
-![image](/uploads/5dd7bf38d30a8242a5185e9d668ffd80/image.png)
+![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/5dd7bf38d30a8242a5185e9d668ffd80/image.png)
 
 
 
@@ -95,12 +95,12 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 2. python main.py => main.py를 실행시켜 준다 
 
 ### 메인화면
-![image](/uploads/30d85cc49d7b7a912a9274ba7d4cdb92/image.png)
+![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/30d85cc49d7b7a912a9274ba7d4cdb92/image.png)
 
 
 
 ## 전처리 
-![image](/uploads/3d2bf4e9deefda1f1e67ff5c05935b0a/image.png)
+![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/3d2bf4e9deefda1f1e67ff5c05935b0a/image.png)
 
 - 이미지 저장 경로에 학습을 원하는 이미지와 라벨을 넣어주고 전처리 버튼을 클릭
 - test/train/label 폴더가 생성되고 각각의 폴더 안에 .npy 파일 생성
@@ -110,7 +110,7 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 
 
 ## 학습하기  
-![image](/uploads/76aa596a5fd21fff4e1a30081288a379/image.png)
+![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/76aa596a5fd21fff4e1a30081288a379/image.png)
 
 - 전처리 후 학습모델에 이름 기재
 - Hyperparameter(learningrate/epoch/batchsize) 적절하게 설정
@@ -121,7 +121,7 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
   
 
 ## Test
-![image](/uploads/9294cacd3511599f637b75a397a6331a/image.png)
+![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/9294cacd3511599f637b75a397a6331a/image.png)
 
 - 원하는 학습 모델을 선택한 뒤 Test 버튼 클릭
 - 해당 모델의 테스트 데이터셋 결과 확인
@@ -131,7 +131,7 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
   
 
 ## Test비교하기
-![image](/uploads/6fe9780918ef8457a0aaf9e30ed4637c/image.png)
+![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/6fe9780918ef8457a0aaf9e30ed4637c/image.png)
 
 - 2개의 모델을 선택한 뒤 compare 버튼 클릭
 - 2개의 모델의 테스트 데이터셋 결과 확인  
@@ -140,9 +140,9 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
  
 
 ## TensorBoard를 통해 학습&테스트 진행내용 확인  
-![image](/uploads/3eede26f16a21b993b65de71e863b4b2/image.png)
+![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/3eede26f16a21b993b65de71e863b4b2/image.png)
 
-![image](/uploads/aeb6aa890cfa8d2e549d1a7a2f28f403/image.png)
+![image](https://lab.ssafy.com/s05-final/S05P31F004/uploads/aeb6aa890cfa8d2e549d1a7a2f28f403/image.png)
 
 
 
